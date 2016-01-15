@@ -6,8 +6,8 @@ Go to [the demo page](http://hallowed-letters.surge.sh/levelgraph-demo/) and ope
 
 **db** &ndash; levelup instance used by `graph`
 
-**log** &ndash; console.log.bind(console)
+**log** &ndash; `console.log.bind(console)`
 
-**readDb** &ndash; read the contents of window.db to the console
+**readDb** &ndash; read the contents of `window.db` to the console
 
 **readGraph** &ndash; log the output of `graph.get({})`
