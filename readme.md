@@ -1,6 +1,6 @@
 # levelgraph demo
 
-Go to [the demo page](http://hallowed-letters.surge.sh/levelgraph-demo/) and open the browser console. Attached to the window object are:
+Go to [the demo page](http://demos.nichoth.com/levelgraph-demo/) and open the browser console. Attached to the window object are:
 
 **graph** &ndash; levelgraph instance containing one triple: `{ subject: 'a', predicate: 'b', object: 'c' }`
 
